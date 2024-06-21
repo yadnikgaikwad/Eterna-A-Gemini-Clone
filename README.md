@@ -1,6 +1,6 @@
 # 🫧 Gemini Clone 
 
-<img width="100%" alt="banner" src="https://github.com/vaibhavdhok/Imagify/assets/31030257/049b5652-4253-46b8-b614-b366c3d94f4d">
+<img width="100%" alt="banner" src="Preview.png">
 
 The **Gemini** app is a cutting-edge AI application powered by Google's Gemini API, offering users the ability to interact with generative AI models seamlessly. It enables users to leverage multimodal capabilities, including text and image inputs, to generate responses and perform various AI-related tasks.
 
